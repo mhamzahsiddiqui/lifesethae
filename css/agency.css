@@ -180,8 +180,7 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  width: auto;
-  height: auto;
+  background-size: cover;
 }
 
 header.masthead .intro-text {
